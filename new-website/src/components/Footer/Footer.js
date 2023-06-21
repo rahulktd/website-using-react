@@ -31,7 +31,7 @@ function Footer() {
                         <li>
                             <Link to='/courses' onClick={handleClick}>Our Program</Link>
                             </li>
-                        <li><Link to='/services' onClick={handleClick}>Our Plan</Link></li>
+                        <li><Link to='/services' onClick={handleClick}>Our Plans</Link></li>
                          <li><Link onClick={handleClick}>Become a member</Link></li>
                         </ul>
                     
